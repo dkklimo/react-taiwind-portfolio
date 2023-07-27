@@ -2,7 +2,7 @@
 
 A simple portfolio starter theme built with React and Tailwind CSS. This is the React version of [vuejs-tailwindcss-portfolio](https://github.com/realstoman/vuejs-tailwindcss-portfolio).
 
-![React-TailwindCSS-Portfolio](https://user-images.githubusercontent.com/16396664/146666086-28e88beb-c2f0-431f-adfb-2396d8f64c80.png)
+<img width="910" alt="image" src="https://github.com/dkklimo/react-taiwind-portfolio/assets/47693336/6765f447-8d67-4f71-a4c0-4258d8cc27d4">
 
 ## Demo URL
 
