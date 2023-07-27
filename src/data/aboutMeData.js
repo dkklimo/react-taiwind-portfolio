@@ -1,10 +1,10 @@
 export const aboutMeData = [
 	{
 		id: 1,
-		bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
+		bio: 'Passionate Fullstack Software Engineer with 3 years of experience in developing web applications using a diverse skill set encompassing Javascript, ReactJS, NodeJS, PHP, Laravel, MERN Stack, and expertise in WordPress.',
 	},
 	{
 		id: 2,
-		bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
+		bio: 'With an unwavering attention to detail, I am dedicated to creating transformative solutions that make a positive impact and bring meaningful change to the world. As an enthusiastic problem solver and lover of technology, I am driven to craft innovative and user-centric applications that push the boundaries of what is possible in the digital realm.',
 	},
 ];
