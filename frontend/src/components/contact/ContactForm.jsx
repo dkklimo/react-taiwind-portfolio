@@ -22,7 +22,7 @@ const ContactForm = () => {
 		});
   
 		if (response.status === 200) {
-		  alert('Email sent successfully');
+		  alert('Form Submitted successfully.Dickson Will get back to you');
 		} else {
 		  alert('Error sending email');
 		}
