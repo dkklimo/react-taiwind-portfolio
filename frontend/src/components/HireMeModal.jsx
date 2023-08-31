@@ -20,7 +20,7 @@ const HireMeModal = ({ onClose, onRequest }) => {
 		e.preventDefault();
 		
 		try {
-		  const response = await fetch('http://localhost:3001/send-email', {
+		  const response = await fetch('https://portfolio-backend-oy2e.onrender.com/send-email', {
 			method: 'POST',
 			headers: {
 			  'Content-Type': 'application/json',
